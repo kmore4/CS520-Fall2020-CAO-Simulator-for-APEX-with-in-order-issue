@@ -1,9 +1,3 @@
-Name: Vivek Yadav
-Email: vyadav1@binghamton.edu
-B-Number: B00816804
-
--------------------------------------------------
-
 How to run code:
 
 1) To Comile:
